@@ -1,4 +1,4 @@
-<iDOChtml>
+<!DOChtml>
   <header>
     <h1><center>Life Hacks</center></h1>
     <caption><b><center>Created to make life easier for adults as well as teenagers</center></b></caption>
